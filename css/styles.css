@@ -1,8 +1,51 @@
 body {
   font-type: helvetica;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: -10px;
+}
+
+h2 {
+  font-size: 20px;
+  font-style: bold;
 }
 
 img {
+  display: block;
   border-radius: 50%;
-  width: 200px;
+  width: 135px;
+  margin: auto;
+}
+
+p {
+  font-size: 18px;
+}
+
+ul {
+  font-size: 18px;
+  font-style: normal;
+}
+
+#opener {
+  font-size: 18px;
+  text-align: center;
+  padding-bottom: 50px;
+  color: #878787;
+}
+
+#closer {
+  color: #878787;
+  font-size: 18px;
+  font-style:
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
